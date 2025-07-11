@@ -66,7 +66,7 @@ Here are some highlights from our vending machine in action:
 <img src="./media/frizzo4.jpg" width="300"/> <img src="./media/frizzo2.jpg" width="300"/> 
 
 ### 💳 QR Code Display, Payment System and Internal Setup
-<img src="./media/frizzo3.jpg" width="400"/> <img src="./media/cricuit diagram frizzo.jpg" width="300"/>
+<img src="./media/frizzo3.jpg" width="400"/> <img src="./media/cricuit diagram frizzo.jpg" width="320"/>
 
 ---
 
