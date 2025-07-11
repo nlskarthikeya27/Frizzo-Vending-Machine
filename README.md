@@ -74,7 +74,7 @@ Here are some highlights from our vending machine in action:
 
 Watch the full demo on YouTube:
 
-[![Watch the video](https://www.youtube.com/watch?v=mcWkoIMRP3E)][(https://www.youtube.com/watch?v=mcWkoIMRP3E)]()
+[![Watch the video]()](https://www.youtube.com/watch?v=mcWkoIMRP3E)
 
 ---
 
