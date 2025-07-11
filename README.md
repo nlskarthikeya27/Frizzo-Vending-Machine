@@ -63,10 +63,10 @@ This project was a joint effort between students from:
 Here are some highlights from our vending machine in action:
 
 ### 🧊 Front View and Internal Setup
-<img src="" width="400"/> <img src="images/internal_view.jpg" width="400"/>
+<img src="./media/frizzo1.jpg" width="400"/> <img src="./media/cricuit_diagram_frizzo.jpg" width="400"/>
 
 ### 💳 QR Code Display and Payment System
-<img src="images/qr_display.jpg" width="400"/> <img src="images/payment_status.jpg" width="400"/>
+<img src="./media/frizzo2.jpg" width="400"/> 
 
 ---
 
